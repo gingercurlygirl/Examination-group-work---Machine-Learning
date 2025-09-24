@@ -21,3 +21,15 @@ So we ask ourselves: can we predict the price of accommodation?
 - Our hypothesis that by separating negative prices, the result should be better did not turn out to be correct.
 - In our case, LinearRegression (7%) shows better results than RandomForestRegressor (9%).
 - This data set clearly shows that each feature affects the price and should not be separated as such.
+
+
+
+
+
+
+-----
+#### Team Members:
+- Madeleine Thunholm
+- Ali Asheer
+- Adrian Kaczor
+- Ivana Lovric
